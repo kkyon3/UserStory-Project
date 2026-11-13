@@ -1,499 +1,100 @@
-Rash
-Runny nose
-Nausea
-Runny nose
-Low-grade fever
-Rash
-Abdominal pain or cramps
-Diarrhea
-Vomiting
-Abdominal pain or cramps
-
-Rash
-Fatigue
-Stomach cramps
-Low-grade fever
-Irritability
-Stomach cramps
-Swollen, painful salivary glands
-Diarrhea
-Irritability
-Rash
-Nausea
-Swollen lymph nodes
-Stomach cramps
-Swollen lymph nodes
-Stomach cramps
-Stomach cramps
-Abdominal pain or cramps
-Irritability
-Stomach cramps
-Irritability
-Swollen lymph nodes
-Vomiting
-Irritability
-Abdominal pain or cramps
-Abdominal pain or cramps
-Nausea
-Runny nose
-Rash
-Rash
-Runny nose
-Headache
-Stomach cramps
-Rash
-Loss of appetite
-Rash
-Stomach cramps
-Nausea
-Low-grade fever
-Abdominal pain
-Irritability
-Diarrhea
-Abdominal pain or cramps
-Nausea
-Rash
-Vomiting
-Diarrhea
-Vomiting
-Bloody stools
-Muscle aches
-Nausea
-Rash
-Irritability
-Abdominal pain or cramps
-Nausea
-Muscle aches
-Vomiting
-Low-grade fever
-Bloody stools
-Diarrhea
-Fatigue
-Abdominal pain
-Stomach cramps
-Diarrhea
-Nausea
-Rash
-Irritability
-Vomiting
-Vomiting
-Irritability
-Diarrhea
-Fever
-Rash on hands and feet
-Diarrhea
-Headache
-Fever
-Nausea
-Irritability
-Rash
-Vomiting
-Nausea
-Headache
-Bloody stools
-Fatigue
-Stomach cramps
-Stomach cramps
-Rash on hands and feet
-Nausea
-Diarrhea
-Irritability
-Nausea
-Bloody stools
-Headache
-Sore throat
-Rash
-Irritability
-Sore throat
-Stomach cramps
-Fever
-Stomach cramps
-Vomiting
-Diarrhea
-Diarrhea
-Runny nose
-Loss of appetite
-Low-grade fever
-Fever
-Runny nose
-Fatigue
-Stomach cramps
-Runny nose
-Rash
-Abdominal pain or cramps
-Irritability
-Irritability
-Runny nose
-Nausea
-Nausea
-Fatigue
-Nausea
-Irritability
-Runny nose
-Swollen lymph nodes
-Chills
-Nausea
-Stomach cramps
-Stomach cramps
-Vomiting
-Diarrhea
-Runny nose
-Stomach cramps
-Fatigue
-Swollen lymph nodes
-Runny nose
-Low-grade fever
-Muscle aches
-Abdominal pain or cramps
-Low-grade fever
-Swollen lymph nodes
-Abdominal pain or cramps
-Rash
-Irritability
-Stomach cramps
-Stomach cramps
-Stomach cramps
-Fever
-Vomiting
-Rash on hands and feet
-Vomiting
-Diarrhea
-Abdominal pain or cramps
-Irritability
-Nausea
-Swollen lymph nodes
-Vomiting
-Vomiting
-Abdominal pain or cramps
-Rash on hands and feet
-Vomiting
-Muscle aches
-Swollen lymph nodes
-Vomiting
-Diarrhea
-Bloody stools
-Swollen lymph nodes
-Rash
-Rash
-Stomach cramps
-Nausea
-Vomiting
-Sores in mouth
-Abdominal pain or cramps
-Sore throat
-Low-grade fever
-Swollen lymph nodes
-Vomiting
-Diarrhea
-Stomach cramps
-Irritability
-Diarrhea
-Diarrhea
-Vomiting
-Diarrhea
-Sore throat
-Runny nose
-Irritability
-Muscle aches
-Nausea
-Rash on hands and feet
-Red lines in body folds
-Low-grade fever
-Stomach cramps
-Vomiting
-Stomach cramps
-Abdominal pain or cramps
-Diarrhea
-Stomach cramps
-Headache
-Nausea
-Vomiting
-Sore throat
-Rash
-Red spots
-Muscle aches
-Low-grade fever
-Irritability
-Diarrhea
-Runny nose
-Headache
-Diarrhea
-Stomach cramps
-Runny nose
 Cough
-Fatigue
 Sore throat
-Runny nose
-Rash
-Bloody stools
-Vomiting
-Irritability
-Stomach cramps
-Irritability
-Low-grade fever
-Fatigue
-Stomach cramps
-Abdominal pain or cramps
-Vomiting
-Swollen lymph nodes
-Muscle aches
-Vomiting
-Muscle aches
-Abdominal pain or cramps
-Low-grade fever
-Abdominal pain or cramps
-Swollen lymph nodes
-Irritability
-Diarrhea
-Rash
-Runny nose
-Runny nose
-Headache
-Bloody stools
-Sneezing
-Red eyes
-Nausea
-Irritability
-Runny nose
-Stomach cramps
-Rash on hands and feet
-Sore throat
-Mouth sores
-Loss of appetite
-Rash on hands and feet
-Low-grade fever
-Abdominal pain or cramps
-Irritability
-Fatigue
-Diarrhea
-Runny nose
-Sore throat
-Fatigue
-Rash on hands and feet
-Bloody stools
-Runny nose
-Vomiting
-Dehydration
-Stomach cramps
-Rash
-Nausea
-Vomiting
-Swollen lymph nodes
-Runny nose
-Irritability
-Runny nose
-Diarrhea
-Runny nose
-Nausea
-Rash
-Muscle aches
-Low-grade fever
-Rash on hands and feet
-Nausea
-Swollen lymph nodes
-Stomach cramps
-Stomach cramps
-Abdominal pain or cramps
-Stomach cramps
-Fatigue
-Stomach cramps
-Low-grade fever
+Loss of taste or smell
+Dizziness
+Frequent urination
+Extreme hunger
+Shortness of breath
+Shortness of breath
 Fever
-Diarrhea
-Vomiting
-Irritability
-Headache
-Diarrhea
-Diarrhea
-Fatigue
-Sore throat
-Vomiting
-Headache
-Irritability
-Runny nose
-Bloody stools
-Vomiting
-Low-grade fever
-Nausea
-Fatigue
-Diarrhea
-Muscle aches
-Bloody stools
-Rash
-Vomiting
-Mouth sores
-Vomiting
-Rash
-Irritability
-Muscle aches
-Fatigue
-Runny nose
-Feverish
-Nausea
-Abdominal pain or cramps
-Vomiting
-Fatigue
-Vomiting
-Diarrhea
-Red lines in body folds
-Rash
-Diarrhea
-Headache
-Rash
-Irritability
-Vomiting
-Rash
-Irritability
-Muscle aches
-Stomach cramps
-Muscle aches
-Abdominal pain or cramps
-Irritability
-Cough
-Bloody stools
-Diarrhea
-Irritability
-Nausea
-Bloody stools
+Night sweats
+Chest discomfort
 Swollen lymph nodes
-Vomiting
-Stomach cramps
-Rash
-Muscle aches
-Diarrhea
-Low-grade fever
-Diarrhea
-Sores in mouth
-Swollen lymph nodes
-Swollen lymph nodes
-Loss of appetite
-Fever
-Headache
-Low-grade fever
-Muscle aches
-Runny nose
-Soreness or burning in the mouth
-Bloody stools
-Sores in mouth
-Nausea
-Red lines in body folds
-Vomiting
-Rash
-Irritability
-Headache
-Stomach cramps
-Nausea
-Red spots
-Stomach cramps
-Low-grade fever
-Diarrhea
-Low-grade fever
-Muscle aches
-Diarrhea
-Stomach cramps
-Loss of appetite
-Nausea
-Nausea
-Red eyes
-Fever
-Swollen lymph nodes
-Diarrhea
-Sore throat
-Headache
+Nasal congestion
+Shortness of breath
+Swelling in legs
+Slurred speech
 Fatigue
-Vomiting
-Sore throat
-Muscle aches
-Diarrhea
-Headache
+Pain radiating to arm or jaw
+Confusion
+Slow movement
+Vision problems
+Temporary confusion
+Sensitivity to light
+Loss of interest in activities
+Restlessness
+Episodes of mania
+Delusions
+Hyperactivity
+Joint stiffness
+Morning stiffness
+Bone fractures
+Joint redness
+Joint pain
+Fatigue
+Regurgitation
 Nausea
-Nausea
-Fever
-Vomiting
-Sore throat
-Fatigue
-Stomach cramps
-Muscle aches
-Red eyes
-Diarrhea
-Chills
-Abdominal pain or cramps
-Stomach cramps
-Sore throat
-Stomach cramps
-Fatigue
-Rash
-Abdominal pain or cramps
-Rash on hands and feet
-Irritability
-Nausea
-Fatigue
-Rash
-Stomach cramps
-Runny nose
-Stomach cramps
-Fatigue
-Diarrhea
-Runny nose
-Abdominal pain or cramps
-Runny nose
-Blisters
-Stomach cramps
-Low-grade fever
+Bloating
 Abdominal pain
-Rash
+Rectal pain
+Bloating
+Fever
+Nausea
 Vomiting
 Fatigue
-Swollen lymph nodes
-Low-grade fever
-Sores in mouth
-Rash
+Dark urine
+Jaundice
+Abdominal swelling
+Vomiting
+Stomach cramps
+Fatigue
+Blood in urine
+Frequent urination
+Weight gain
+Rapid heartbeat
+Pale skin
+Swelling of hands and feet
+Easy bruising
+Night sweats
+Change in breast shape
+Coughing up blood
+Blood in semen
+Blood in stool
+Irregular skin lesion
 Abdominal pain
-Runny nose
-Irritability
-Sore muscles
-Rash
-Nausea
-Abdominal pain or cramps
-Stomach cramps
-Fatigue
-Rash
+Pelvic pain
+Pelvic pain
+Dry patches
+Itching
+Blackheads
+Fever
+Burning sensation
+Red blotchy rash
+Fever
+Low-grade fever
+Whooping sound when inhaling
+Sweating
+Severe joint and muscle pain
+Fever
+Weight loss
 Sore throat
-Loss of appetite
-Abdominal pain or cramps
-Vomiting
-Nausea
-Nausea
-Runny nose
-Diarrhea
-Diarrhea
-Fatigue
-Swollen lymph nodes
-Irritability
-Rash
-Fatigue
-Headache
-Strawberry tongue
-Blisters
-Muscle aches
-Stomach cramps
-Fatigue
-Vomiting
-Nausea
-Mouth sores
-Stomach cramps
-Muscle aches
-Diarrhea
-Abdominal pain or cramps
-Runny nose
-Sores in mouth
-Swollen lymph nodes
-Nasal discharge
-Fatigue
-Sore throat
-Fatigue
-Fatigue
-Vomiting
-Diarrhea
-Abdominal pain or cramps
-Runny nose
+Eye discharge
+Eye pain
+Sensitivity to glare
+Distorted vision
+Hearing difficulty
+Itchy eyes
+Daytime sleepiness
+Daytime fatigue
+Painful periods
+Excess hair growth
+Frequent nighttime urination
+Leg pain
+Sharp chest pain
+Cold feet
+Salty-tasting skin
+Severe headache
+Muscle spasms
+Agitation
+Anal itching
+Fever
